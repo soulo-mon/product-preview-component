@@ -17,12 +17,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![](./screenshot/screenshot-desktop.png)
+![](https://github.com/soulo-mon/product-preview-component/blob/0c42fce6e4284d6555338833a067d96962e2d3f0/My%20Screenshot%20Desktop%20screen.png)
+![](https://github.com/soulo-mon/product-preview-component/blob/0c42fce6e4284d6555338833a067d96962e2d3f0/My%20Screenshot%20Mobile%20Phone%20screen.png)
 
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/product-preview-card-vanilla-css-and-custom-hover-state-on-hero-85A1JsueD1)
-- Live Site URL: [Live Site at Vercel](https://product-preview-card-component-two.vercel.app/)
+
 ## My process
 
 ### Built with
